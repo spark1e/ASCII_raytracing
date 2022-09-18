@@ -1,0 +1,18 @@
+﻿  ASCII_raytracing.cpp
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\Funcs.h(48,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\Funcs.h(49,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\Funcs.h(56,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\Funcs.h(57,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\Funcs.h(64,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\Funcs.h(65,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(17,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(29,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(29,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(29,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(29,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(78,50): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(79,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(85,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(85,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\repos\ASCII_raytracing\ASCII_raytracing\ASCII_raytracing.cpp(85,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ASCII_raytracing.vcxproj -> D:\VS\repos\ASCII_raytracing\x64\Debug\ASCII_raytracing.exe
